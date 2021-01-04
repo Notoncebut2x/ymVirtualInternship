@@ -1,6 +1,6 @@
 # Week 2: Overview of OSM, iD Editor and HOT Tasking Manager (February 9)
 - Ice breaker
-  -Post-pandemic what is the number one place you would like to visit? / Interns share homework assignment summaries
+  - Post-pandemic what is the number one place you would like to visit? / Interns share homework assignment summaries
 - Presentations
   - Rory + Adele present refresher on OSM, iD Editor and HOT Tasking Manager (add link to slides)
 - Homework assignment

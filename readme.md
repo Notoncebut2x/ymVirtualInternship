@@ -14,7 +14,7 @@ We have created Github pages for each of the weekly meetings. In advance of the 
 - Week 1: Internship kickoff (February 2)
 - Week 2: Overview of OSM, iD Editor and HOT Tasking Manager (February 9)
 - Week 3: HOT deep dive (February 16)
-- Week 4: MapRoulette/OSMCha tutorial + final project overview HOT deep dive (February 23)
+- Week 4: MapRoulette/OSMCha tutorial + final project overview (February 23)
 - Week 5: Introduction to USAID GeoCenter career mentors (March 2)
 - Week 6: Field mapping 101: Crash course in Field Papers + KoBo Toolbox (March 9)
 - Week 7: GIS at USAID showcase (March 16 - 2 hour session)

@@ -16,3 +16,4 @@
       - [Climb a tree](https://ee.humanitarianresponse.info/single/ce2ec8fe1e7b7cccb73c1cdf7bf654da)
   - Meet with two GeoCenter career mentors for 15-minute coffee chats and send Adele, Rory + Natalie short email summarizing what you learned from the conversations (3-4 sentences)
     - We don't have a strict deadline for this assignment since we know some weeks will be busier than others for both you + your mentors - please try to schedule the chats for sometime in the next couple weeks!
+    

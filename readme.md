@@ -1,6 +1,11 @@
 # YouthMappers Virtual Internship Program
 ## Introduction
-Welcome to the Spring 2021 YouthMappers Virtual Internship Program! This program is co-hosted by the U.S. Agency for International Development (USAID) GeoCenter and YouthMappers and led by Adele Birkenes and Rory Nealon at the GeoCenter. We are excited to have the opportunity to work with you this semester!
+Welcome to the **Spring 2021 YouthMappers Virtual Internship Program**! This program is co-hosted by the U.S. Agency for International Development (USAID) GeoCenter and YouthMappers and led by Adele Birkenes and Rory Nealon at the GeoCenter. Our Teaching Assistant (TA) is Natalie O'Dell, a senior at The George Washington University. We are excited to have the opportunity to work with you this semester!
+
+### Our contact information
+- Adele Birkenes, abirkenes@usaid.gov
+- Rory Nealon, rnealon@usaid.gov
+- Natalie O'Dell, nodell111@gwmail.gwu.edu
 
 ## Internship overview
 The goal of this internship is to provide an opportunity for students from YouthMappers chapters in the United States to work with the USAID GeoCenter supporting Mapping for Resilience programs. The internship aims to build students' technical and leadership skills and increase their understanding of how open geospatial tools and data are used in international development and other industries. Each intern will also work on a final project to support the YouthMappers program.

@@ -26,5 +26,5 @@ We have created Github pages for each of the weekly meetings. In advance of the 
 - Week 8 pt. 1: Final project check-in + chapter leadership discussion (March 23)
 - Week 8 pt. 2: JOSM training with State Department (date TBD)
 - Week 9: Company showcase (March 30)
-- Week 10: Internship close-out + final project check-in (April 6)
+- Week 10: JOSM validation training + internship close-out (April 6)
 - Week 11: Final project presentations to USAID GeoCenter staff/YM leadership team (April 13)

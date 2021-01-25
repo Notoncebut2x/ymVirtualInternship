@@ -7,7 +7,7 @@ The goal of this internship is to provide an opportunity for students from Youth
 
 ### Final project
 The final project will have two components:
- - **University-focused capstone**: Supporting your university's YouthMappers chapter by developing and implementing a mapping campaign/project
+ - **Chapter-focused capstone**: Supporting your university's YouthMappers chapter by developing and implementing a mapping campaign/project
  - **Network-focused capstone**: Supporting the global YouthMappers network by creating and compiling onboarding materials for new chapters
  
  We will be providing detailed instructions for the final project in Week 4 of the internship. Until then, please be sure to complete the homework assignments involving check-ins with your university's YouthMappers chapter!

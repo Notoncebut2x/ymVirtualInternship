@@ -11,7 +11,7 @@
     - Why you are interested in this internship program
     - A new skill/activity you picked up in quarantine
 - **Homework assignment**
-  - Check in with chapter
+  - Work with your internship partner to check in with your university's chapter
     - Report out on their mission and background and on any recent or upcoming activities they have participated in or organized
     - The Annual Report would be a good resource to check out!
   - Tell us about a YouthMappers project or activity that is particularly interesting to you! (~2 minutes/intern)

@@ -18,3 +18,6 @@
     - You can either talk about a project that you worked on with your chapter or check out the [YouthMappers website](https://www.youthmappers.org/) (blog, projects page, activity map)
     - Give us an overview of the project and why you found it interesting
 - **Resources + important links**
+* [Two Minute Tutorial: What is OpenStreetMap?](https://youtu.be/Phwrgb16oEM)
+* [CNBC: OpenStreetMap: The map that saves lives](https://youtu.be/d6n29CU2-Sg)
+* [YouthMappers Chapter List](https://www.youthmappers.org/chapter-listing)

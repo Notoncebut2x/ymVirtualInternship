@@ -10,7 +10,7 @@
     - Your involvement in your university’s YM chapter thus far
     - Why you are interested in this internship program
     - A new skill/activity you picked up in quarantine
-- **Homework assignment**
+- **Homework assignment** (due week 2)
   - Work with your internship partner to check in with your university's chapter
     - Report out on their mission and background and on any recent or upcoming activities they have participated in or organized
     - The Annual Report would be a good resource to check out!
@@ -18,6 +18,7 @@
     - You can either talk about a project that you worked on with your chapter or check out the [YouthMappers website](https://www.youthmappers.org/) (blog, projects page, activity map)
     - Give us an overview of the project and why you found it interesting
 - **Resources + important links**
-* [Two Minute Tutorial: What is OpenStreetMap?](https://youtu.be/Phwrgb16oEM)
-* [CNBC: OpenStreetMap: The map that saves lives](https://youtu.be/d6n29CU2-Sg)
-* [YouthMappers Chapter List](https://www.youthmappers.org/chapter-listing)
+    - [Two Minute Tutorial: What is OpenStreetMap?](https://youtu.be/Phwrgb16oEM)
+    - [CNBC: OpenStreetMap: The map that saves lives](https://youtu.be/d6n29CU2-Sg)
+    - [Rebecca Firth of HOT's TED Talk: Can we call it a "world map" if it's missing a billion people?](https://www.ted.com/talks/rebecca_firth_can_we_call_it_a_world_map_if_it_s_missing_a_billion_people)
+    - [YouthMappers chapter list](https://www.youthmappers.org/chapter-listing)

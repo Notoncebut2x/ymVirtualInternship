@@ -5,8 +5,10 @@
 - **Presentations**
   - Adele + Rory present refresher on OSM, iD Editor and HOT Tasking Manager
 - **Homework assignment**
-  - Use iD Editor to map five squares from two different HOT tasks of your choice
+  - Use iD Editor to map three squares from [YouthMappers' Mapping Buildings and Road Features in Kati Cercle, Mali, Project](https://tasks.hotosm.org/projects/10275/) and two squares from a project of your choice (explore projects [here](https://tasks.hotosm.org/explore))
   - Please add the #YouthMappers hashtag to your changesets
   - Please email links to Natalie (cc Adele and Rory) by COB Monday, February 15
   - To get the link to the square you mapped click on the link icon under the Tasking Manager's task tab
 - **Resources + important links**
+  - [Learn to Map on HOTOSM](https://tasks.hotosm.org/learn)
+  - [YouthMappers Resource Library Mapping Toolkit](https://sites.google.com/view/youthmapperswiki/chapter-resources/mapping-toolkit?authuser=0)

@@ -16,8 +16,8 @@
     - Chapter focused capstone proposal deadline: 5 p.m. Monday, March 8
     - Aim to have an outline/rough draft completed by Monday, March 1
 - **Resources + important links**
-  - [JOSM training and mapathon hosted by YouthMappers Validation Hub](bit.ly/YMLiveHub)
+  - [JOSM Training and Mapathon hosted by YouthMappers Validation Hub](https://www.eventbrite.com/e/josm-training-and-mapathon-hosted-by-the-youthmappers-validation-hub-registration-141754344059)
     - 9-11 AM EST on Thursday, February 25
     - This event will be recorded
   - [Colonialism in Open Data and Mapping hosted by HOT's Community Working Group](https://www.eventbrite.com/e/colonialism-in-open-data-and-mapping-tickets-141256414739)
-    - 11 AM - 12PM EST on Friday, February 26
+    - 11 AM - 12 PM EST on Friday, February 26

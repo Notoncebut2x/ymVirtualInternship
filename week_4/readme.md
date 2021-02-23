@@ -1,15 +1,21 @@
 # Week 4: MapRoulette/OSMCha tutorial + final project overview (February 23)
 - **Opening discussion**
   - Ice breaker: What TV show are you watching right now/what book are you reading?
-  - Homework assignment check-in
+  - Homework assignment check-in with Natalie
 - **Presentations**
   - Rory shares tutorial on MapRoulette/OSMCha
     - [Slides](https://notoncebut2x.github.io/ymOSMTools/#/)
   - Adele introduces final project assignment and outlines potential project ideas
+    - [Final project instructions](https://docs.google.com/document/d/1fk4jKo5Qwbh9VRy8Zts_yfc-7D05RvF1uuIjsWVcsEY/edit?usp=sharing)
 - **Homework assignments**
   - Map five tasks using MapRoulette from the below two challenges:
     - [Sudan Undermapped Locations Challenge](https://maproulette.org/browse/challenges/14327)
     - TomTom's [Africa Missing Roads Challenge](https://maproulette.org/challenge/13426/)
-    - Please use OSMCha to get your changeset links and share them with Natalie (cc Adele and Rory) by COB Monday, March 8
-  - Set up a time with Adele + Rory to discuss final project interests (select from blocks of time that Adele + Rory have reserved)
+    - Please use OSMCha to get your changeset links and share them with Natalie (cc Adele and Rory) by COB Monday, March 1
+  - Meet with your internship project partner to begin outlining/drafting your chapter-focused capstone proposal
+    - Chapter focused capstone proposal deadline: 5 p.m. Monday, March 8
+    - Aim to have an outline/rough draft completed by Monday, March 1
 - **Resources + important links**
+  - [JOSM training and mapathon hosted by YouthMappers Validation Hub](bit.ly/YMLiveHub)
+    - 9-11 AM EST on Thursday, February 25
+    - This event will be recorded

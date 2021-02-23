@@ -19,5 +19,5 @@
   - [JOSM training and mapathon hosted by YouthMappers Validation Hub](bit.ly/YMLiveHub)
     - 9-11 AM EST on Thursday, February 25
     - This event will be recorded
-  - [Colonialism in Open Data and Mapping](https://www.eventbrite.com/e/colonialism-in-open-data-and-mapping-tickets-141256414739) hosted by HOT's Community Working Group
+  - [Colonialism in Open Data and Mapping hosted by HOT's Community Working Group](https://www.eventbrite.com/e/colonialism-in-open-data-and-mapping-tickets-141256414739)
     - 11 AM - 12PM EST on Friday, February 26

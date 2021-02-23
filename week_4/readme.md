@@ -6,7 +6,7 @@
   - Rory shares tutorial on MapRoulette/OSMCha
     - [Slides](https://notoncebut2x.github.io/ymOSMTools/#/)
   - Adele introduces final project assignment and outlines potential project ideas
-    - [Final project instructions](https://docs.google.com/document/d/1fk4jKo5Qwbh9VRy8Zts_yfc-7D05RvF1uuIjsWVcsEY/edit?usp=sharing)
+    - Final project instructions
 - **Homework assignments**
   - Map five tasks using MapRoulette from the below two challenges:
     - [Sudan Undermapped Locations Challenge](https://maproulette.org/browse/challenges/14327)

@@ -21,3 +21,4 @@ We are in the process of compiling a list of academic articles that may be espec
 # News articles
 Some additional reading:
 - [Why we need to think about ethics when using satellite data for development](https://www.devex.com/news/why-we-need-to-think-about-ethics-when-using-satellite-data-for-development-99148) (Devex)
+- [Use of proprietary software in the aid sector perpetuates racial injustice](https://ivangayton.net/2020/07/03/use-of-proprietary-software-in-the-aid-sector-perpetuates-racial-injustice/) (Blog post recommended during Colonialism in Open Data and Mapping webinar)

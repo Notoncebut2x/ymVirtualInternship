@@ -9,15 +9,21 @@
   - Use Field Papers to map part of your neighborhood/campus
     - Email changeset link(s) to Natalie (cc Adele and Rory) by COB Monday, March 15
     - Be prepared to share your annotated map and an overview of your OSM edits with the group
-  - Create a KoBo survey on a topic of your choice and email it to the group by COB Friday, March 13; complete other interns’ surveys by COB Monday, March 16
+  - Create a KoBo survey on a topic of your choice and email it to the group by COB Friday, March 12; complete other interns’ surveys by COB Monday, March 15
     - This is just for fun and so that you can get some practice with the software!
     - The survey should be between 7 - 10 questions with at least 3 different question types (location, audio, picture, text, long, short answer, etc...)  Also include at least 2 conditional questions.
     - Sample surveys from last semester:
       - [Children's books](https://ee.humanitarianresponse.info/x/1nnZVz8q)
       - [Climb a tree](https://ee.humanitarianresponse.info/single/ce2ec8fe1e7b7cccb73c1cdf7bf654da)
-  - Meet with two GeoCenter career mentors for 15-minute coffee chats and send Adele, Rory + Natalie short email summarizing what you learned from the conversations (3-4 sentences)
+  - Meet with two GeoCenter career mentors for 20-minute coffee chats
     - We don't have a strict deadline for this assignment since we know some weeks will be busier than others for both you + your mentors - please try to schedule the chats for sometime in the next couple weeks!
 - **Resources + important links**
-  - Register for a Kobo account [here](https://kobo.humanitarianresponse.info/accounts/login/?next=/#/)
-  - Intro video for [   KoboToolBox](https://www.youtube.com/watch?v=4PNtT51h3CQ)
+  - Field Papers
+    - [Field Papers website](http://fieldpapers.org/)
+    - [Map features list on OSM wiki](https://wiki.openstreetmap.org/wiki/Map_features)
+    - [Surveying with Field Papers LearnOSM tutorial](https://learnosm.org/en/mobile-mapping/field-papers/)
+    - [How to create an atlas and upload a snapshot with Field Papers tutorial video](https://www.youtube.com/watch?v=A_HGkBXZ69g)
+  - KoBo Toolbox
+    - Register for a Kobo account [here](https://kobo.humanitarianresponse.info/accounts/login/?next=/#/)
+    - Intro video for [KoboToolBox](https://www.youtube.com/watch?v=4PNtT51h3CQ)
     

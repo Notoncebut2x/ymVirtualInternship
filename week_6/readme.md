@@ -11,6 +11,7 @@
     - Be prepared to share your annotated map and an overview of your OSM edits with the group
   - Create a KoBo survey on a topic of your choice and email it to the group by COB Friday, March 13; complete other interns’ surveys by COB Monday, March 16
     - This is just for fun and so that you can get some practice with the software!
+    - The survey should be between 7 - 10 questions with at least 3 different question types (location, audio, picture, text, long, short answer, etc...)  Also include at least 2 conditional questions.
     - Sample surveys from last semester:
       - [Children's books](https://ee.humanitarianresponse.info/x/1nnZVz8q)
       - [Climb a tree](https://ee.humanitarianresponse.info/single/ce2ec8fe1e7b7cccb73c1cdf7bf654da)
@@ -18,5 +19,5 @@
     - We don't have a strict deadline for this assignment since we know some weeks will be busier than others for both you + your mentors - please try to schedule the chats for sometime in the next couple weeks!
 - **Resources + important links**
   - Register for a Kobo account [here](https://kobo.humanitarianresponse.info/accounts/login/?next=/#/)
-  - Intro video for [KoboToolBox](https://www.youtube.com/watch?v=4PNtT51h3CQ)
+  - Intro video for [   KoboToolBox](https://www.youtube.com/watch?v=4PNtT51h3CQ)
     

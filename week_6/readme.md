@@ -17,4 +17,6 @@
   - Meet with two GeoCenter career mentors for 15-minute coffee chats and send Adele, Rory + Natalie short email summarizing what you learned from the conversations (3-4 sentences)
     - We don't have a strict deadline for this assignment since we know some weeks will be busier than others for both you + your mentors - please try to schedule the chats for sometime in the next couple weeks!
 - **Resources + important links**
+  - Register for a Kobo account [here](https://kobo.humanitarianresponse.info/accounts/login/?next=/#/)
+  - Intro video for [KoboToolBox](https://www.youtube.com/watch?v=4PNtT51h3CQ)
     

@@ -1,6 +1,6 @@
 # Week 9: Company showcase (March 30)
 - **Opening discussion**
-  - Ice breaker
+  - Ice breaker: What is your favorite bird?
 - **Presentations**
   - Guest speakers share overviews of how their companies use open geospatial data/analysis; group Q&A
 - **Homework assignment**

@@ -4,7 +4,7 @@
 - **Presentations**
   - Guest speakers share overviews of how their companies use open geospatial data/analysis; group Q&A
 - **Homework assignment**
-  - Work on final project; send Adele, Rory and Natalie a 3-4 sentence update on your final projects by COB Monday, April 5
+  - Work on final projects; send Adele, Rory and Natalie a 3-4 sentence update on your final projects by COB Monday, April 5
 - **Resources + important links**
 
 # Week 9 pt. 2: JOSM training with State Department (April 2)

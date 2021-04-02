@@ -1,4 +1,4 @@
-# Week 8 pt. 1: Final project check-in (March 23)
+# Week 8: Final project check-in (March 23)
 - **Opening discussion**
   - Dr. Brent McCusker, WVU, shares overview of stipend process and required paperwork
 - **Group discussion**
@@ -9,9 +9,4 @@
     - Mapping in support of [USAID Mali project](https://tasks.hotosm.org/projects/10275/)
 - **Homework assignment**
   - Continue working on chapter- & network-focused capstones
-- **Resources + important links**
-
-# Week 8 pt. 2: JOSM training with State Department (date TBD)
-- **Homework assignment**
-  - Use JOSM to map five squares from two different HOT tasks of your choice; send links to Natalie (cc Adele and Rory) by COB Monday, March 29
 - **Resources + important links**

@@ -1,0 +1,11 @@
+# Week 12: Final project presentations to USAID GeoCenter staff/YouthMappers leadership team
+- **Opening discussion**
+  - Introductions/ice breaker
+- **Presentations**
+  - Each university has a 15-minute presentation block: 8 minutes for shared chapter-focused capstone presentation (please use slides), 3-4 minutes/intern for network-focused capstone summary (slides optional)
+  - Group Q&A about experience of participating in internship and working on final projects
+- **Homework assignments**
+  - Complete survey about internship program
+  - Finish up final projects
+- **Resources + important links**
+  - [Fall 2020 Virtual Internship Program final project presentations](https://www.youtube.com/watch?v=jcL0CNK29sI&ab_channel=YouthMappers)

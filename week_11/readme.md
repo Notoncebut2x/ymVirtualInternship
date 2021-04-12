@@ -1,4 +1,4 @@
-# Week 11: Internship close-out
+# Week 11: Internship reflections + close-out
 - **Opening discussion**
   - Ice breaker/check-in
   - Natalie shares feedback on homework assignments

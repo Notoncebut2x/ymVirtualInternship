@@ -1,4 +1,4 @@
-# Week 12: Final project presentations to USAID GeoCenter staff/YouthMappers leadership team
+# Week 12: Final project presentations to USAID GeoCenter staff/YouthMappers leadership team (April 20)
 - **Opening discussion**
   - Introductions/ice breaker
 - **Presentations**

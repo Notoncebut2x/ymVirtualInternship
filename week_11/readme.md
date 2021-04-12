@@ -1,4 +1,4 @@
-# Week 11: Internship reflections + close-out
+# Week 11: Internship reflections + close-out (April 13)
 - **Opening discussion**
   - Ice breaker/check-in
   - Natalie shares feedback on homework assignments

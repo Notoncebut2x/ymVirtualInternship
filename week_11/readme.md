@@ -1,11 +1,11 @@
-# Week 11: Final project presentations to USAID GeoCenter staff/YouthMappers leadership team
+# Week 11: Internship close-out
 - **Opening discussion**
-  - Introductions/ice breaker
-- **Presentations**
-  - Interns present projects for 10 minutes each (~7-8 minutes for slides, ~2-3 minutes for Q&A)
-  - Group Q&A about experience of participating in internship and working on final projects
+  - Ice breaker/check-in
+  - Natalie shares feedback on homework assignments
+- **Main discussion**
+  - Adele shares overview of final project presentation guidelines
+  - Group discusses internship reflection questions (posted in Slack)
 - **Homework assignments**
-  - Complete survey about internship program
-  - Send Adele, Rory + Natalie two paragraphs of reflection (one on the program itself, one on your final project) that can be posted on the YM blog
+  - Prepare for final project presentations
 - **Resources + important links**
   - [Fall 2020 Virtual Internship Program final project presentations](https://www.youtube.com/watch?v=jcL0CNK29sI&ab_channel=YouthMappers)
